@@ -1,7 +1,8 @@
 # 🪑 Furnix Neon — Modern Furniture E-Commerce Website
-### My ELUSOC 2026 Admin Badges!
 
-<a href="https://edulinkup.dev/elusoc/profile/janavipandole"></a>
+> Officially participating in
+## ELUSOC 2026
+
 > A sleek and modern furniture shopping platform with a neon-inspired UI, built for smooth performance and elegant user experience.
 
 🌐 **Live Demo:** https://furnix-neon.vercel.app/
